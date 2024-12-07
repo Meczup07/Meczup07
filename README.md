@@ -44,7 +44,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   </div>
   <div>
-    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
+    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="200" />
   </div>
 </div>
 
