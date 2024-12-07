@@ -22,7 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="Qt logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altium/altium-designer.svg" height="30" alt="Altium Designer logo" />
 </div>
 
 ###
