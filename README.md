@@ -37,16 +37,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-###
 
 ### ✍️ Random Dev Quote
-<div style="display: flex; align-items: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <div>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </div>
+  <div align="right">
+    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
+  </div>
 </div>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
-</div>
 
 <br clear="both">
 
