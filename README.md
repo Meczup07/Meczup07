@@ -5,10 +5,6 @@
   Throughout my university career, my projects and research have allowed me to gain experience in C, Python, STM, communication protocols, ROS, and power electronics.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="150" />
-</div>
-
 ## 🌐 Socials:
 <div style="text-align: left;">
   <a href="https://instagram.com/elifyucel07" target="_blank">
@@ -46,6 +42,10 @@
 ### ✍️ Random Dev Quote
 <div style="display: flex; align-items: center;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="left">
+  <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
 </div>
 
 <br clear="both">
