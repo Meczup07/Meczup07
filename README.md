@@ -20,7 +20,7 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%;">
     <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="35%" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false" width="45%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="40%" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false" width="45%" />
     </div>
     <div>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false" width="45%" />
