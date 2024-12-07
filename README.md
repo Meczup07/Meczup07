@@ -6,6 +6,9 @@ I am a senior-year Electrical Engineering student at Yıldız Technical Universi
 Throughout my university career, my projects and research have allowed me to gain experience in C, Python, STM, communication protocols, ROS, and power electronics.
 </p>
 
+![Uploading this-is.gif…]()
+
+
 ###
 
 <div align="center">
