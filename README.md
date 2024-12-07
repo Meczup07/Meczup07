@@ -48,8 +48,4 @@ Throughout my university career, my projects and research have allowed me to gai
 ###
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Meczup07&theme=github)
-![GitHub Contributions](https://github.com/Meczup07/Meczup07/blob/output/github-contribution-grid-snake.svg)
-
-
 ###
