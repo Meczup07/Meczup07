@@ -53,6 +53,9 @@ Throughout my university career, my projects and research have allowed me to gai
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 ###
 <br clear="both">
 
