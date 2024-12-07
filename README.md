@@ -48,7 +48,6 @@ Throughout my university career, my projects and research have allowed me to gai
 </div>
 
 ###
-
 <br clear="both">
 
-<img src="https://raw.githubu
+<img src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/snake.svg" alt="Snake animation" />
