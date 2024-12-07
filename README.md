@@ -37,6 +37,9 @@
 
 ###
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/snake.svg" alt="Snake animation" />
