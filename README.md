@@ -40,13 +40,14 @@
 
 ### ✍️ Random Dev Quote
 <div style="display: flex; align-items: center;">
-  <div style="margin-right: 10px;">
+  <div style="flex: 1; margin-right: 10px;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   </div>
-  <div>
+  <div style="flex: 1;">
     <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
   </div>
 </div>
+
 
 <br clear="both">
 
