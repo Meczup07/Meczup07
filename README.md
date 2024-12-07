@@ -39,14 +39,15 @@
 
 
 ### ✍️ Random Dev Quote
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <div>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
+  <div style="flex: 1;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   </div>
   <div align="right">
     <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
   </div>
 </div>
+
 
 
 <br clear="both">
