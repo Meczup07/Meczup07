@@ -1,19 +1,11 @@
 # 💫 About Me:
-<p style="font-family: Helvetica, sans-serif; font-size: 10pt; text-align: left;">
-  Hi 👋! My name is Elif. I am a senior-year Electrical Engineering student at Yıldız Technical University. I have an interest in and have been working on algorithm development, embedded software, hardware, and UAV systems.<br>
-
-  Throughout my university career, my projects and research have allowed me to gain experience in C, Python, STM, communication protocols, ROS, and power electronics.
-</p>
-
-<div align="left" style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="150" style="margin-right: 20px;" />
-  <div>
-    <p style="font-family: Helvetica, sans-serif; font-size: 10pt; text-align: left;">
-      Hi 👋! My name is Elif. I am a senior-year Electrical Engineering student at Yıldız Technical University. I have an interest in and have been working on algorithm development, embedded software, hardware, and UAV systems.<br>
+  <p style="font-family: Helvetica, sans-serif; font-size: 10pt; text-align: left;">
+    Hi 👋! My name is Elif. I am a senior-year Electrical Engineering student at Yıldız Technical University. I have an interest in and have been working on algorithm development, embedded software, hardware, and UAV systems.<br>
 
-      Throughout my university career, my projects and research have allowed me to gain experience in C, Python, STM, communication protocols, ROS, and power electronics.
-    </p>
-  </div>
+    Throughout my university career, my projects and research have allowed me to gain experience in C, Python, STM, communication protocols, ROS, and power electronics.
+  </p>
 </div>
 
 ## 🌐 Socials:
