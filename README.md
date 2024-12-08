@@ -43,6 +43,6 @@
 
 
 
-<!br clear="both">
+<!--br clear="both">
 
-<img src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/snake.svg" alt="Snake animation" /!>
+<img src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/snake.svg" alt="Snake animation" /-->
