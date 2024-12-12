@@ -38,7 +38,8 @@
 ### ✍️ Random Dev Quote
 <div style="display: flex; align-items: center; font-family: 'Courier New', monospace; font-size: 12pt; background-color: #1c1c1c; padding: 10px; border-radius: 5px; color: #00FF00;">
   <div style="margin-right: 10px;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />     <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />     
+    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="300" />
   </div>
 </div>
 
