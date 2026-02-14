@@ -16,11 +16,12 @@
 
 <div align="center">
 
-![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meczup07&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=tokyonight&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 </div>
 
@@ -31,16 +32,6 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meczup07&theme=tokyo-night&hide_border=false&area=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
