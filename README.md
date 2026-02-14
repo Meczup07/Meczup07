@@ -13,29 +13,26 @@
 ---
 
 # 📊 GitHub Stats:
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&count_private=true" height="170" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false" height="170" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&count_private=true" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false" height="150" />
+      </td>
+    </tr>
+  </table>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
-</p>
+</div>
 
 ---
 
 ## 🐍 Snake Contribution Graph:
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
+</div>
 
 ## 💻 Tech Stack:
 <p align="left">
@@ -53,11 +50,13 @@
   <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false&margin-w=4" />
-</p>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false" />
+</div>
+
+---
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
