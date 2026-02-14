@@ -29,11 +29,6 @@
 
 ---
 
-## 🐍 Snake Contribution Graph:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ## 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
@@ -49,13 +44,6 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white" />
 </p>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false" />
-</div>
-
 ---
 ### ✍️ Random Dev Quote
 <p align="center">
