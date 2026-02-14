@@ -13,32 +13,28 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&count_private=true" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false" height="150" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false&card_width=400" alt="GitHub Streak" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meczup07&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=450" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meczup07&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=false&theme=react-dark" alt="Contribution Graph" width="95%" />
+</p>
 
 ---
 
@@ -73,7 +69,7 @@
 
 ## 🔥 Current Status:
 <div align="center">
-  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="300" alt="This is fine dog">
   <br>
   <p><i>"This is fine... everything is under control!"</i> 🐕‍🔥</p>
 </div>
@@ -82,11 +78,11 @@
 
 ### ✍️ Random Dev Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meczup07&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Meczup07&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
