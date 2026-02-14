@@ -17,10 +17,7 @@
 <div align="center">
 
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=tokyonight&hide_border=false)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 </div>
