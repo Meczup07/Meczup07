@@ -13,28 +13,39 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=400" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false&card_width=400" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=450" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Meczup07&theme=blue-green&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Achievements:
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="trophies" />
 </p>
+
+<!-- Alternatif Trophy Gösterimi -->
+<details>
+<summary>🎖️ Click to see more achievements</summary>
+<br>
+
+**Contribution Stats:**
+- 🌟 Total Contributions: Growing daily!
+- 🔥 Current Streak: Check my profile
+- 💡 Repositories: Active development
+- ⭐ Stars Earned: Open source contributor
+
+</details>
 
 ---
 
-## 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meczup07&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=false&theme=react-dark" alt="Contribution Graph" width="95%" />
-</p>
+## 📈 Contribution Activity:
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meczup07&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=false)
 
 ---
 
@@ -57,19 +68,22 @@
 ---
 
 ## 🐍 Contribution Snake:
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
+![Snake animation](https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Yılan animasyonu yüklenmiyorsa aşağıdaki alternatifi gösterir -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meczup07/Meczup07/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 🔥 Current Status:
+
 <div align="center">
-  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="300" alt="This is fine dog">
+  <img src="https://i.giphy.com/5ntdy5Ban1dIY.webp" width="300" alt="This is fine">
   <br>
   <p><i>"This is fine... everything is under control!"</i> 🐕‍🔥</p>
 </div>
@@ -77,12 +91,22 @@
 ---
 
 ### ✍️ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 📫 How to reach me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifyyucel07@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elifyucel07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elifyücel)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meczup07&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Meczup07&color=blue&style=flat-square&label=Profile+Views)
+
+**"The very best technology never has as much impact as girlfriend or boyfriend trouble." - Tom DeMarco**
+
 </div>
