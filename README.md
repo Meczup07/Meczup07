@@ -74,17 +74,6 @@
   </picture>
 </div>
 
----
-
-## 🔥 Current Status:
-
-<div align="center">
-  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="300" alt="This is fine">
-  <br>
-  <p><i>"This is fine... everything is under control!"</i> 🐕‍🔥</p>
-</div>
-
----
 
 ### ✍️ Random Dev Quote:
 
@@ -100,7 +89,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Meczup07&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 💡 "The very best technology never has as much impact as girlfriend or boyfriend trouble."
-*- Tom DeMarco*
-
-</div>
