@@ -1,12 +1,14 @@
 # 💫 About Me:
 <p style="font-family: Helvetica, sans-serif; font-size: 10pt; text-align: left;">
-  Hi 👋! My name is Elif. I am a senior-year Electrical Engineering student at Yıldız Technical University. I am interested in and have been working on algorithm development, embedded software, hardware, and UAV systems.<br>
-  Throughout my university career, my projects and research have allowed me to gain experience in C, Python, STM, communication protocols, ROS, and power electronics.
+ I am an aspiring electrical engineer, striving to transform energy into knowledge and knowledge into technology, with the goal of addressing today’s needs while shaping the world of tomorrow. Along this journey, I actively participated in numerous projects and team initiatives within my university, which allowed me to work with multidisciplinary systems and further enhance my technical expertise.
+
+My areas of both study and interest include power electronics, embedded systems, algorithm development, and control systems.
+
+Throughout my four years of education, teamwork has also enabled me to acquire additional skills beyond my technical field. These include collaboration, project planning and management, discipline, and process monitoring; all of which are essential competencies in professional life.
 </p>
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://instagram.com/elifyucel07" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/elifyücel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
