@@ -15,42 +15,33 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Meczup07">
-          <img src="https://github-readme-stats.vercel.app/api?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" height="165" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Meczup07">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=blue-green&hide_border=false&cache_seconds=86400" height="165" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <a href="https://github.com/Meczup07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=86400" width="60%" />
-  </a>
+
+![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meczup07&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meczup07&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meczup07&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+
 </div>
 
 ---
 
-## 🏆 Achievements & Contributions:
+## 📈 Contribution Graph:
 
 <div align="center">
-  
-| 🌟 Contributions | 🔥 Streak | 💡 Projects | ⭐ Stars |
-|:---:|:---:|:---:|:---:|
-| Check my profile! | Growing daily | Active | Open Source |
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meczup07&theme=tokyo-night&hide_border=false&area=true)
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies:
+
 <div align="center">
-  <a href="https://github.com/Meczup07">
-    <img src="https://github-profile-trophy.vercel.app/?username=Meczup07&theme=algolia&no-frame=false&margin-w=15&row=1" />
-  </a>
+
+![](https://github-profile-trophy.vercel.app/?username=Meczup07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+
 </div>
 
 ---
@@ -88,17 +79,17 @@
 ## 🔥 Current Status:
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="300" alt="This is fine dog">
+  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="300" alt="This is fine">
   <br>
   <p><i>"This is fine... everything is under control!"</i> 🐕‍🔥</p>
 </div>
 
 ---
 
-## 💭 Random Dev Quote:
+### ✍️ Random Dev Quote:
 
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -106,16 +97,10 @@
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Meczup07&color=blue&style=flat-square&label=Profile+Views)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Meczup07&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ### 💡 "The very best technology never has as much impact as girlfriend or boyfriend trouble."
 *- Tom DeMarco*
-
----
-
-### 📫 Let's Connect!
-
-**Feel free to reach out for collaborations or just a chat about tech!**
 
 </div>
